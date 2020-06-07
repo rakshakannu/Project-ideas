@@ -1,7 +1,7 @@
 # Project-ideas
 A list of project ideas that I find online.
 
-->to-do webapp using django
-->whatsapp/telegram bot using python
-->personal online portfolio using Django
-->password creator
+1. to-do webapp using django
+2. whatsapp/telegram bot using python
+3. personal online portfolio using Django
+4. password creator
