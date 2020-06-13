@@ -11,3 +11,4 @@ A list of project ideas that I find online.
 8. deep learning - image captioning bot, GANs, 
 8. AI based tic tac toe player
 9. packman - Astar search 
+10. facial recognition using opencv and flask
