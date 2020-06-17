@@ -13,4 +13,5 @@ A list of project ideas that I find online.
 9. packman - Astar search 
 10. facial recognition using opencv and flask
 11. chrome extension for converting text to speech
-12. 
+12. Number plate sensor for cars
+13. self driving cars using ML, and unity
