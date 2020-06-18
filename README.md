@@ -15,3 +15,4 @@ A list of project ideas that I find online.
 11. chrome extension for converting text to speech
 12. Number plate sensor for cars + AWS hosting
 13. self driving cars using ML, and unity
+14. chrome extension to skip youtube ads [here](https://dev.to/penge)
