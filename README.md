@@ -17,3 +17,4 @@ A list of project ideas that I find online.
 13. self driving cars using ML, and unity
 14. chrome extension to skip youtube ads [here](https://dev.to/penge)
 15. ml web app using streamline and python
+16. web scraper with python and beautiful soap
