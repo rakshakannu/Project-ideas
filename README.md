@@ -22,3 +22,4 @@ A list of project ideas that I find online.
 18. COVID 19 probability predictor
 19. number guesser using pygame
 20. stable matching
+21. tetris game.
