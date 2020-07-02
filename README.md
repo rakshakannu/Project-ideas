@@ -23,3 +23,6 @@ A list of project ideas that I find online.
 19. number guesser using pygame
 20. stable matching
 21. tetris game.
+22. QR code/ barcode detection using opencv
+23. face recognition using webcam
+24. web authentication using open cv
