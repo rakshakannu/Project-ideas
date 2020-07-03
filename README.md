@@ -26,3 +26,4 @@ A list of project ideas that I find online.
 22. QR code/ barcode detection using opencv
 23. face recognition using webcam
 24. web authentication using open cv
+25. Whatsapp bot using twilio and python.
