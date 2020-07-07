@@ -29,4 +29,4 @@ A list of project ideas that I find online.
 25. Whatsapp bot using twilio and python - https://www.youtube.com/watch?v=HiillVo1gJY
 26. Android app for TV - like youtube, but displays the personalised videos from the facebook to each individual user.
 27. Web scraping bot + Email system [here](https://www.youtube.com/watch?v=Bg9r_yLk7VY)
-28. twittor bot [here[(https://www.youtube.com/watch?v=7ovFudqFB0Q&list=PLDyQo7g0_nsULCDha3lv7rw2t6AnhNTHV&index=2)
+28. twittor bot [here](https://www.youtube.com/watch?v=7ovFudqFB0Q&list=PLDyQo7g0_nsULCDha3lv7rw2t6AnhNTHV&index=2)
