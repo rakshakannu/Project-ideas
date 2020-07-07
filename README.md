@@ -28,3 +28,4 @@ A list of project ideas that I find online.
 24. web authentication using open cv
 25. Whatsapp bot using twilio and python - https://www.youtube.com/watch?v=HiillVo1gJY
 26. Android app for TV - like youtube, but displays the personalised videos from the facebook to each individual user.
+27. Web scraping bot + Email system [here](https://www.youtube.com/watch?v=Bg9r_yLk7VY)
